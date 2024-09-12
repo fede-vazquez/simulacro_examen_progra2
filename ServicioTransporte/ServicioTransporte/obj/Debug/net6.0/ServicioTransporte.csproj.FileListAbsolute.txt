@@ -1,0 +1,14 @@
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\ServicioTransporte\ServicioTransporte\bin\Debug\net6.0\ServicioTransporte.exe
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\ServicioTransporte\ServicioTransporte\bin\Debug\net6.0\ServicioTransporte.deps.json
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\ServicioTransporte\ServicioTransporte\bin\Debug\net6.0\ServicioTransporte.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\ServicioTransporte\ServicioTransporte\bin\Debug\net6.0\ServicioTransporte.dll
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\ServicioTransporte\ServicioTransporte\bin\Debug\net6.0\ServicioTransporte.pdb
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\ServicioTransporte\ServicioTransporte\obj\Debug\net6.0\ServicioTransporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\ServicioTransporte\ServicioTransporte\obj\Debug\net6.0\ServicioTransporte.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\ServicioTransporte\ServicioTransporte\obj\Debug\net6.0\ServicioTransporte.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\ServicioTransporte\ServicioTransporte\obj\Debug\net6.0\ServicioTransporte.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\ServicioTransporte\ServicioTransporte\obj\Debug\net6.0\ServicioTransporte.dll
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\ServicioTransporte\ServicioTransporte\obj\Debug\net6.0\refint\ServicioTransporte.dll
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\ServicioTransporte\ServicioTransporte\obj\Debug\net6.0\ServicioTransporte.pdb
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\ServicioTransporte\ServicioTransporte\obj\Debug\net6.0\ServicioTransporte.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\ServicioTransporte\ServicioTransporte\obj\Debug\net6.0\ref\ServicioTransporte.dll

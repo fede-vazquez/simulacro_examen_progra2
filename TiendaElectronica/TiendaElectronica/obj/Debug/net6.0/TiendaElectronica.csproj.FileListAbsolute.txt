@@ -1,0 +1,14 @@
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\TiendaElectronica\TiendaElectronica\bin\Debug\net6.0\TiendaElectronica.exe
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\TiendaElectronica\TiendaElectronica\bin\Debug\net6.0\TiendaElectronica.deps.json
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\TiendaElectronica\TiendaElectronica\bin\Debug\net6.0\TiendaElectronica.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\TiendaElectronica\TiendaElectronica\bin\Debug\net6.0\TiendaElectronica.dll
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\TiendaElectronica\TiendaElectronica\bin\Debug\net6.0\TiendaElectronica.pdb
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\TiendaElectronica\TiendaElectronica\obj\Debug\net6.0\TiendaElectronica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\TiendaElectronica\TiendaElectronica\obj\Debug\net6.0\TiendaElectronica.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\TiendaElectronica\TiendaElectronica\obj\Debug\net6.0\TiendaElectronica.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\TiendaElectronica\TiendaElectronica\obj\Debug\net6.0\TiendaElectronica.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\TiendaElectronica\TiendaElectronica\obj\Debug\net6.0\TiendaElectronica.dll
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\TiendaElectronica\TiendaElectronica\obj\Debug\net6.0\refint\TiendaElectronica.dll
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\TiendaElectronica\TiendaElectronica\obj\Debug\net6.0\TiendaElectronica.pdb
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\TiendaElectronica\TiendaElectronica\obj\Debug\net6.0\TiendaElectronica.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\simulacro_parcial\TiendaElectronica\TiendaElectronica\obj\Debug\net6.0\ref\TiendaElectronica.dll
